@@ -1,6 +1,7 @@
 # Angular 2 Simple Search
 
 This article contains simple example of Angular 2 basic search. For more details you can visit below sites. 
+
 [Angular simple search using pipe]
 
 ## Required
