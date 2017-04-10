@@ -72,7 +72,7 @@ export class AppComponent {
 
 ## Usage
 
-Download and do `npm intall` and `npm start`
+Download and do `npm install` and `npm start`
 
 You will get a screen which has a simple text box that allows to search through the displayed data.
 
